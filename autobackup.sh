@@ -4,7 +4,7 @@
 # Variáveis
 SOURCE_DIR="@origin/backup@"
 TEMP_DIR="/tmp/lnd_backup_temp"
-DEST_DIR="@/mnt/backup@"
+DEST_DIR="/media/backup"
 DEST_USER="@umbrel@"
 DEST_HOST="@192.168.0.100@"
 PASSWORD="@youpassword@"
