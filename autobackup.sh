@@ -5,8 +5,8 @@
 SOURCE_DIR="@origin/backup@"
 TEMP_DIR="/tmp/lnd_backup_temp"
 DEST_DIR="@/mnt/backup@"
-DEST_USER="umbrel"
-DEST_HOST="192.168.0.100"
+DEST_USER="@umbrel@"
+DEST_HOST="@192.168.0.100@"
 PASSWORD="@youpassword@"
 LOG_FILE="$HOME/backup.log"
 DATE=$(date +"%Y%m%d_%H%M%S")
